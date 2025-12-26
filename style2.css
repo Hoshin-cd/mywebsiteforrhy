@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+.upper-part{
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30px;
+    font-family:Sour Gummy, sans-serif;
+    padding: 5rem 15rem 5rem 15rem;
+    height: 100vh;
+    border: solid 5px white;
+    border-radius: 5px;
+}
+.hehe{
+    font-size: 50px;
+}
+.cat-love{
+    border-radius: 100%;
+}
+.message{
+    text-align: justify;
+    background-color: beige;
+    padding: 2rem 2.5rem 2rem 2.5rem;
+    border-radius: 15px;
+    
+}
+.go-back{
+    font-family: Sour Gummy;
+    font-size: 30px;
+    background-color: white;
+    border: 2px solid black;
+}

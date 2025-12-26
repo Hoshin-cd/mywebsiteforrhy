@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+.top-section{
+    background-color: pink;
+    display: flex;
+    justify-content: center; 
+    font-size: 25px;
+    font-family: "Sour Gummy", sans-serif;
+     border: 7px solid white;
+    border-radius: 5px;
+}
+.middle-section{
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    padding: 0 15rem 0 15rem;
+    height: 100vh;
+    border: 7px solid white;
+    border-radius: 5px;
+}
+.click-surprise{
+    font-family: Sour Gummy;
+    font-size: 30px;
+    background-color: white;
+    border: 2px solid black;
+}
+body{ 
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+}
+.songs{
+    color: purple;
+    text-decoration: none;
+    align-items:normal
+}
